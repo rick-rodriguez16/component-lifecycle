@@ -6,7 +6,6 @@ The component lifecycle is the time period that begins at the creation of a comp
 This stage marks the creation of the component and its insertion into the DOM.  The component will appear on the browser as html elements within the source code.  The can be done with Javascript's DOM manipulation or using JSX.
 
 
-
 ## Stage 2 - Updating stage
 This stage handles the changes made to a component's state or props.
 
